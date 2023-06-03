@@ -1,0 +1,11 @@
+textarea{
+    resize: none;
+}
+
+textarea, ul{
+
+}
+ul{
+  list-style: none;  
+}
+
