@@ -4,7 +4,7 @@ html{
   background-color: #0026A0;
 }
 
-h1{
+header{
   text-align: center;
   font-weight: 700;
   margin-bottom: 50px;
@@ -15,24 +15,29 @@ main{
   grid-template-columns: repeat(2,1fr);
 
 }
-textarea{
+textarea[name="user-input"]{
     resize: none;
     background-color: #EEF2FF;
     border-radius: 5px;
     color: #0026A0;
-    font-family:'Open Sans', sans-serif
+    font-family:'Open Sans', sans-serif;
+
 }
 
 
-ul{
+.lista{
   list-style:circle;  
   line-height: 2;
+  width: auto;
+  height: auto;
 }
-
-li{
+.elemento-lista {
   border:solid #EEF2FF 0.2px;
   border-radius: 5px;
   margin: 5px auto;
+  padding:2px;
+  width:auto;
+  height: auto;
 }
 
 
