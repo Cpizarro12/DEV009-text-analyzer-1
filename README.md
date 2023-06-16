@@ -6,9 +6,9 @@
 * [2. Preámbulo](#2-preámbulo)
 * [3. Funcionalidades](#3-funcionalidades)
 * [4. Prototipo](#4-prototipo)
-* [4. Tecnologías utilizadas](#4-tecnologías-utilizadas)
-* [5. Pagina web](#5-pagina-web)
-* [5. Autor](#5-autor)
+* [5. Tecnologías utilizadas](#4-tecnologías-utilizadas)
+* [6. Pagina web](#5-pagina-web)
+* [7. Autor](#5-autor)
 
 
 ***
